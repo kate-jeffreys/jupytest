@@ -1,0 +1,7 @@
+.DS_Store
+.venv
+.ipynb_checkpoints
+.vscode
+_*.ipynb
+_*.md
+*._ipynb
